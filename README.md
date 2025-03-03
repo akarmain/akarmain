@@ -10,6 +10,7 @@
 <a href="https://t.me/akarmain" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
+    <a href="https://wakatime.com/@f0162448-a361-4374-b49b-49a45ac9f257"><img src="https://wakatime.com/badge/user/f0162448-a361-4374-b49b-49a45ac9f257.svg" alt="Total time coded since Jun 1 2023" /></a>
 </div>
 
 ###

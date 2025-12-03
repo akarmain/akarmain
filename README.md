@@ -55,9 +55,7 @@
 ---
 
 <!--START_SECTION:waka-->
-📊 **Weekly development breakdown**
 <!--END_SECTION:waka-->
-
 <div align="center">
     _Спасибо, что читаете мой код!_
 </div>

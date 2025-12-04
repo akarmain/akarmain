@@ -16,8 +16,8 @@
 />
 </a>
 <br>
-<a href="https://wakatime.com/@f0162448-a361-4374-b49b-49a45ac9f257" target="_blank">
-    <img src="https://wakatime.com/badge/user/f0162448-a361-4374-b49b-49a45ac9f257.svg" alt="Total time coded since Jun 1 2023" /></a>
+<!--<a href="https://wakatime.com/@f0162448-a361-4374-b49b-49a45ac9f257" target="_blank">
+    <img src="https://wakatime.com/badge/user/f0162448-a361-4374-b49b-49a45ac9f257.svg" alt="Total time coded since Jun 1 2023" /></a>-->
 </div>
 
 ---
@@ -106,10 +106,9 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=akarmain&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
 </div>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 <div align="center">
     ↝Thank you for reading <a href="https://akarmain.ru">my</a> code!↝

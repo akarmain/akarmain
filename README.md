@@ -111,8 +111,6 @@
   <img src="https://streak-stats.demolab.com?user=akarmain&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
 
----
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 

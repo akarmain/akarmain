@@ -69,9 +69,7 @@
   <a href="https://www.sqlite.org/docs.html" target="_blank">
     <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" />
   </a>
-
-  <br><br>
-
+  <br>
   <!-- Nuxt -->
   <a href="https://nuxt.com/docs" target="_blank">
     <img src="https://img.shields.io/badge/Nuxt-00C58E?logo=nuxt&logoColor=white&style=for-the-badge" />

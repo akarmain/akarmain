@@ -111,10 +111,11 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    6 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+iTerm2                   4 mins              █████████████████░░░░░░░░   68.33 % 
+TablePlus                2 mins              ████████░░░░░░░░░░░░░░░░░   31.67 % 
 ```
 
 **I Mostly Code in Python** 

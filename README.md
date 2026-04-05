@@ -107,22 +107,6 @@
   <br>
 <div align="center">
   <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Other                    13 hrs 9 mins       █████████████████████░░░░   82.96 % 
-CSV                      1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
-Groff                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
-Bash                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
-JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-
-🔥 Editors: 
-iTerm2                   11 hrs 9 mins       ██████████████████░░░░░░░   70.37 % 
-Zed                      4 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   27.07 % 
-AdobePhotoshop2024       24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text

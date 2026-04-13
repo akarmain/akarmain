@@ -107,6 +107,22 @@
   <br>
 <div align="center">
   <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    17 hrs 59 mins      ███████████████████████░░   92.69 % 
+Python                   50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Markdown                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+JavaScript               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+
+🔥 Editors: 
+iTerm2                   11 hrs 33 mins      ███████████████░░░░░░░░░░   59.58 % 
+AdobePhotoshop2024       3 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
+Zed                      3 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text

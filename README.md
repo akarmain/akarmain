@@ -107,32 +107,14 @@
   <br>
 <div align="center">
   <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Other                    11 hrs 34 mins      ██████████░░░░░░░░░░░░░░░   41.16 % 
-Image (svg)              4 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
-TypeScript               3 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-HTML                     3 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-Markdown                 1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-
-🔥 Editors: 
-Safari                   13 hrs 14 mins      ████████████░░░░░░░░░░░░░   47.04 % 
-Codex                    5 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
-Zed                      4 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
-iTerm2                   2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
-ChatGPT                  50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
-Python                   20 repos            ██████████████░░░░░░░░░░░   55.56 % 
-Vue                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Python                   20 repos            ██████████████░░░░░░░░░░░   54.05 % 
+Vue                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 ```
 
 

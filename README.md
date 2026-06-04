@@ -111,18 +111,18 @@
 
 ```text
 💬 Programming Languages: 
-Other                    14 hrs 29 mins      ██████████░░░░░░░░░░░░░░░   40.53 % 
-Python                   5 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-Markdown                 3 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
-TypeScript               2 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-Image (svg)              2 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+Other                    14 hrs 48 mins      █████████░░░░░░░░░░░░░░░░   34.57 % 
+Python                   9 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   22.77 % 
+TypeScript               4 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+Markdown                 4 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+Image (svg)              2 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
 
 🔥 Editors: 
-Safari                   9 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   27.08 % 
-VS Code                  7 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   21.60 % 
-iTerm2                   4 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
-ChatGPT                  3 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-Zed                      2 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+Safari                   12 hrs 35 mins      ███████░░░░░░░░░░░░░░░░░░   29.38 % 
+VS Code                  10 hrs 2 mins       ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
+Zed                      4 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+iTerm2                   4 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+Claude Code              3 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
 ```
 
 **I Mostly Code in Python** 

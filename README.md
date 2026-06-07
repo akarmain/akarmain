@@ -107,24 +107,6 @@
   <br>
 <div align="center">
   <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Other                    12 hrs 13 mins      ███████░░░░░░░░░░░░░░░░░░   29.69 % 
-Python                   9 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
-Markdown                 5 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-TypeScript               4 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
-Image (svg)              2 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-
-🔥 Editors: 
-VS Code                  12 hrs 52 mins      ████████░░░░░░░░░░░░░░░░░   31.25 % 
-Safari                   10 hrs 27 mins      ██████░░░░░░░░░░░░░░░░░░░   25.40 % 
-iTerm2                   4 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
-Zed                      4 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
-Claude Code              3 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text

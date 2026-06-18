@@ -107,14 +107,32 @@
   <br>
 <div align="center">
   <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    14 hrs 38 mins      █████████░░░░░░░░░░░░░░░░   37.04 % 
+TypeScript               10 hrs 3 mins       ██████░░░░░░░░░░░░░░░░░░░   25.45 % 
+YAML                     4 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
+HTML                     4 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
+Python                   3 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+
+🔥 Editors: 
+Safari                   21 hrs 12 mins      █████████████░░░░░░░░░░░░   53.64 % 
+VS Code                  5 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+Claude Code              3 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+ChatGPT                  2 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+Obsidian                 1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
-Python                   21 repos            ██████████████░░░░░░░░░░░   55.26 % 
-Vue                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+Python                   21 repos            █████████████░░░░░░░░░░░░   53.85 % 
+Vue                      6 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 ```
 
 

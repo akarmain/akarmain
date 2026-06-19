@@ -111,18 +111,18 @@
 
 ```text
 💬 Programming Languages: 
-Other                    14 hrs 38 mins      █████████░░░░░░░░░░░░░░░░   37.04 % 
-TypeScript               10 hrs 3 mins       ██████░░░░░░░░░░░░░░░░░░░   25.45 % 
-YAML                     4 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-HTML                     4 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
-Python                   3 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+Other                    15 hrs 11 mins      █████████░░░░░░░░░░░░░░░░   37.41 % 
+TypeScript               10 hrs 1 min        ██████░░░░░░░░░░░░░░░░░░░   24.68 % 
+HTML                     4 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+YAML                     4 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
+Python                   3 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
 
 🔥 Editors: 
-Safari                   21 hrs 12 mins      █████████████░░░░░░░░░░░░   53.64 % 
-VS Code                  5 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
-Claude Code              3 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-ChatGPT                  2 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
-Obsidian                 1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+Safari                   20 hrs 59 mins      █████████████░░░░░░░░░░░░   51.68 % 
+VS Code                  7 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
+Claude Code              3 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+Zed                      2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+ChatGPT                  2 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
 ```
 
 **I Mostly Code in Python** 

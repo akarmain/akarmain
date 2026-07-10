@@ -111,18 +111,18 @@
 
 ```text
 💬 Programming Languages: 
-Other                    5 hrs 44 mins       █████████░░░░░░░░░░░░░░░░   34.94 % 
-Markdown                 3 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   22.42 % 
-TypeScript               2 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
-Python                   2 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
-YAML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+Other                    5 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   34.37 % 
+Markdown                 3 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   23.11 % 
+TypeScript               3 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
+Python                   2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
+YAML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 
 🔥 Editors: 
-Zed                      5 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   33.02 % 
-VS Code                  3 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
-Claude Code              3 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
-Unknown Editor           2 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
-Obsidian                 2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+Zed                      5 hrs 51 mins       █████████░░░░░░░░░░░░░░░░   36.76 % 
+Claude Code              2 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+Unknown Editor           2 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+VS Code                  2 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
+Obsidian                 2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
 ```
 
 **I Mostly Code in Python** 

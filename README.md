@@ -111,18 +111,18 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               9 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   29.38 % 
-Other                    9 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   28.85 % 
-Python                   4 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
-Markdown                 4 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-Vue                      1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+TypeScript               12 hrs 48 mins      █████████░░░░░░░░░░░░░░░░   36.22 % 
+Other                    8 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   24.63 % 
+Python                   4 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
+Markdown                 3 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
+Vue                      2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
 
 🔥 Editors: 
-Zed                      8 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   26.15 % 
-VS Code                  8 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   25.61 % 
-Claude Code              5 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
-ChatGPT                  3 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-Unknown Editor           3 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+VS Code                  11 hrs 18 mins      ████████░░░░░░░░░░░░░░░░░   31.98 % 
+Zed                      8 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   23.16 % 
+ChatGPT                  6 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
+Claude Code              4 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+Unknown Editor           2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
 ```
 
 **I Mostly Code in Python** 

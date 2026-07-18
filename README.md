@@ -111,18 +111,18 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               16 hrs 46 mins      ███████████░░░░░░░░░░░░░░   43.10 % 
-Other                    8 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
-Python                   4 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
-Markdown                 2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
-Vue                      2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+TypeScript               15 hrs 52 mins      ███████████░░░░░░░░░░░░░░   44.59 % 
+Other                    8 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   24.43 % 
+Vue                      2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+Python                   2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+Markdown                 2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 10 mins      █████████░░░░░░░░░░░░░░░░   36.43 % 
-ChatGPT                  9 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   24.78 % 
-Zed                      6 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
-Claude Code              4 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
-iTerm2                   1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+VS Code                  12 hrs 46 mins      █████████░░░░░░░░░░░░░░░░   35.91 % 
+ChatGPT                  9 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   27.10 % 
+Zed                      5 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
+Claude Code              4 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+Obsidian                 1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
 ```
 
 **I Mostly Code in Python** 

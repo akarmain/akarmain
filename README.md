@@ -113,24 +113,24 @@
 
 ```text
 💬 Programming Languages: 
-Other                    5 hrs 1 min         █████████░░░░░░░░░░░░░░░░   35.97 % 
-Bash                     1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
-CSS                      1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-TypeScript               1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-Python                   1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+Other                    4 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   35.55 % 
+Bash                     1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+CSS                      1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+TypeScript               1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+Python                   58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 42 mins       ████████████░░░░░░░░░░░░░   47.93 % 
-ChatGPT                  4 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   31.46 % 
-Zed                      55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
-Claude Code              45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
-Figma                    43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+VS Code                  6 hrs 42 mins       ████████████░░░░░░░░░░░░░   48.46 % 
+ChatGPT                  4 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   30.99 % 
+Zed                      53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+Claude Code              45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+Figma                    43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 31 mins (89.56%)
+⏱ AI Coding Time: 12 hrs 31 mins (90.56%)
 
 ✍️ 9,558 lines written by AI, 99 lines written by hand (98.97% AI-written)
 
@@ -138,7 +138,7 @@ Figma                    43 mins             █░░░░░░░░░░�
 
 💵 $979.20 Estimated AI Cost This Week
 
-🧠 36 AI Sessions, 157 AI Prompts
+🧠 35 AI Sessions, 149 AI Prompts
 
 GPT                      9,792 lines         ████████████████████████░   96.77 % 
 Sonnet                   259 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
@@ -146,7 +146,7 @@ Vscode-Wakatime          68 lines            ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 98.97% of written lines came from AI
-📝 Concise Prompter — average 254 characters per prompt
+📝 Concise Prompter — average 267 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.97% of changed lines were hand-edited
 ```

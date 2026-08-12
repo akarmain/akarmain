@@ -113,24 +113,24 @@
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   29.73 % 
-Other                    2 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   28.75 % 
-Markdown                 1 hr 41 mins        █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
-Bash                     48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
-JavaScript               34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+Python                   2 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   29.69 % 
+Other                    2 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   28.87 % 
+Markdown                 1 hr 41 mins        █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
+Bash                     48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+JavaScript               34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 50 mins       ██████████████░░░░░░░░░░░   54.14 % 
-ChatGPT                  2 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   32.01 % 
-Zed                      50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
-iTerm2                   19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+VS Code                  4 hrs 50 mins       ██████████████░░░░░░░░░░░   54.05 % 
+ChatGPT                  2 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   32.11 % 
+Zed                      50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+iTerm2                   19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
 Claude Code              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 54 mins (88.57%)
+⏱ AI Coding Time: 7 hrs 54 mins (88.42%)
 
 ✍️ 8,961 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
@@ -153,11 +153,11 @@ Vscode-Wakatime          0 lines             ░░░░░░░░░░░�
 **I Mostly Code in Python** 
 
 ```text
-Python                   24 repos            ██████████████░░░░░░░░░░░   57.14 % 
-Vue                      6 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Python                   25 repos            ███████████████░░░░░░░░░░   58.14 % 
+Vue                      6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
 ```
 
 

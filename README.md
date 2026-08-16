@@ -138,14 +138,14 @@ TablePlus                1 min               ░░░░░░░░░░░�
 
 💵 $176.05 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 69 AI Prompts
+🧠 21 AI Sessions, 68 AI Prompts
 
 GPT                      14,093 lines        ████████████████████████░   95.70 % 
 Codex-Vscode             633 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 686 characters per prompt
+📄 Detailed Prompter — average 696 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```

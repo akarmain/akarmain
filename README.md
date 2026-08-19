@@ -113,24 +113,23 @@
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   37.14 % 
-Other                    1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
-Markdown                 31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
-YAML                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-CSS                      29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+Python                   2 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   37.23 % 
+Other                    1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
+Markdown                 31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+YAML                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+CSS                      29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
 
 🔥 Editors: 
-Codex Vscode             4 hrs 16 mins       ██████████████████░░░░░░░   71.61 % 
-ChatGPT                  1 hr 20 mins        ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
-Claude Code              11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-iTerm2                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
-TablePlus                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Codex Vscode             4 hrs 16 mins       ██████████████████░░░░░░░   71.79 % 
+ChatGPT                  1 hr 19 mins        ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
+Claude Code              11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+iTerm2                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 23 mins (90.27%)
+⏱ AI Coding Time: 5 hrs 23 mins (90.5%)
 
 ✍️ 14,178 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
@@ -138,14 +137,14 @@ TablePlus                0 secs              ░░░░░░░░░░░�
 
 💵 $178.27 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 59 AI Prompts
+🧠 18 AI Sessions, 56 AI Prompts
 
 GPT                      13,744 lines        ████████████████████████░   95.60 % 
 Codex-Vscode             633 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 805 characters per prompt
+📄 Detailed Prompter — average 848 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```

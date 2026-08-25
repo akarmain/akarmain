@@ -138,14 +138,14 @@ iTerm2                   3 mins              ░░░░░░░░░░░�
 
 💵 $69.17 Estimated AI Cost This Week
 
-🧠 29 AI Sessions, 83 AI Prompts
+🧠 28 AI Sessions, 82 AI Prompts
 
 GPT                      1,645 lines         ███████████████████░░░░░░   77.01 % 
 Codex-Vscode             491 lines           ██████░░░░░░░░░░░░░░░░░░░   22.99 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 7,560 characters per prompt
+📚 Verbose Prompter — average 7,652 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```

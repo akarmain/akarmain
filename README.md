@@ -107,16 +107,59 @@
   <br>
 <div align="center">
   <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-359%20hrs%2054%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-362%20hrs%2020%20mins-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    15 hrs 5 mins       ██████████░░░░░░░░░░░░░░░   39.31 % 
+Image (svg)              10 hrs 3 mins       ███████░░░░░░░░░░░░░░░░░░   26.22 % 
+Markdown                 4 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+Java                     3 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+TeX                      3 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+
+🔥 Editors: 
+ChatGPT                  13 hrs 29 mins      █████████░░░░░░░░░░░░░░░░   35.16 % 
+Figma                    8 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
+Zed                      5 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+Codex Vscode             4 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
+Claude Code              2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 20 hrs 11 mins (52.59%)
+
+✍️ 7,194 lines written by AI, 117 lines written by hand (98.4% AI-written)
+
+🔤 5,697,023 Input Tokens, 881,831 Output Tokens
+
+💵 $69.34 Estimated AI Cost This Week
+
+🧠 84 AI Sessions, 352 AI Prompts
+
+GPT                      4,419 lines         ██████████████░░░░░░░░░░░   55.24 % 
+Opus                     2,785 lines         █████████░░░░░░░░░░░░░░░░   34.82 % 
+Sonnet                   795 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 98.4% of written lines came from AI
+📚 Verbose Prompter — average 5,415 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 1.45% of changed lines were hand-edited
+```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   25 repos            ██████████████░░░░░░░░░░░   55.56 % 
-Vue                      6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+Python                   25 repos            ██████████████░░░░░░░░░░░   54.35 % 
+Vue                      6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 ```
 
 

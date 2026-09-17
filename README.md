@@ -107,59 +107,59 @@
   <br>
 <div align="center">
   <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-362%20hrs%2020%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-364%20hrs%209%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    15 hrs 5 mins       ██████████░░░░░░░░░░░░░░░   39.31 % 
-Image (svg)              10 hrs 3 mins       ███████░░░░░░░░░░░░░░░░░░   26.22 % 
-Markdown                 4 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
-Java                     3 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
-TeX                      3 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+Other                    10 hrs 42 mins      ████████░░░░░░░░░░░░░░░░░   30.85 % 
+Image (svg)              9 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   26.62 % 
+Markdown                 4 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Java                     3 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
+TeX                      3 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
 
 🔥 Editors: 
-ChatGPT                  13 hrs 29 mins      █████████░░░░░░░░░░░░░░░░   35.16 % 
-Figma                    8 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
-Zed                      5 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
-Codex Vscode             4 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
-Claude Code              2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+ChatGPT                  10 hrs 13 mins      ███████░░░░░░░░░░░░░░░░░░   29.46 % 
+Figma                    7 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   21.30 % 
+Zed                      6 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
+Codex Vscode             5 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Claude Code              2 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 11 mins (52.59%)
+⏱ AI Coding Time: 19 hrs 52 mins (57.28%)
 
-✍️ 7,194 lines written by AI, 117 lines written by hand (98.4% AI-written)
+✍️ 8,294 lines written by AI, 117 lines written by hand (98.61% AI-written)
 
-🔤 5,697,023 Input Tokens, 881,831 Output Tokens
+🔤 6,700,098 Input Tokens, 1,040,347 Output Tokens
 
-💵 $69.34 Estimated AI Cost This Week
+💵 $80.83 Estimated AI Cost This Week
 
-🧠 84 AI Sessions, 352 AI Prompts
+🧠 87 AI Sessions, 330 AI Prompts
 
-GPT                      4,419 lines         ██████████████░░░░░░░░░░░   55.24 % 
-Opus                     2,785 lines         █████████░░░░░░░░░░░░░░░░   34.82 % 
-Sonnet                   795 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+GPT                      5,626 lines         ███████████████░░░░░░░░░░   61.11 % 
+Opus                     2,785 lines         ████████░░░░░░░░░░░░░░░░░   30.25 % 
+Sonnet                   795 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.4% of written lines came from AI
-📚 Verbose Prompter — average 5,415 characters per prompt
+🤖 AI-Driven — 98.61% of written lines came from AI
+📚 Verbose Prompter — average 6,106 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 1.45% of changed lines were hand-edited
+🚀 High AI Trust — 1.27% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   25 repos            ██████████████░░░░░░░░░░░   54.35 % 
-Vue                      6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Python                   25 repos            █████████████░░░░░░░░░░░░   53.19 % 
+Vue                      6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
 ```
 
 

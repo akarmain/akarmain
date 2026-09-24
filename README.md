@@ -107,7 +107,50 @@
   <br>
 <div align="center">
   <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-372%20hrs%2047%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-376%20hrs%2029%20mins-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    7 hrs 37 mins       ██████████░░░░░░░░░░░░░░░   40.12 % 
+Java                     2 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
+Markdown                 2 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+Python                   1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+JavaScript               1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+
+🔥 Editors: 
+ChatGPT                  8 hrs 41 mins       ███████████░░░░░░░░░░░░░░   45.69 % 
+Codex Vscode             4 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   23.48 % 
+Zed                      3 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+Obsidian                 52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+AdobePhotoshop2024       49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 12 hrs 25 mins (65.4%)
+
+✍️ 5,008 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 3,313,296 Input Tokens, 529,488 Output Tokens
+
+💵 $83.84 Estimated AI Cost This Week
+
+🧠 53 AI Sessions, 173 AI Prompts
+
+GPT                      4,368 lines         ██████████████████████░░░   86.91 % 
+Codex-Vscode             657 lines           ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
+Sonnet                   1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 3,463 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
 
 **I Mostly Code in Python** 
 

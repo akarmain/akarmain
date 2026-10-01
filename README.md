@@ -107,59 +107,59 @@
   <br>
 <div align="center">
   <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-388%20hrs%2011%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-395%20hrs%2027%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    7 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   32.85 % 
-Markdown                 4 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   21.73 % 
-JavaScript               2 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
-CSS                      2 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
-Python                   2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+Other                    7 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   25.76 % 
+Markdown                 5 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
+TypeScript               4 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
+CSS                      2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+Python                   1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
 
 🔥 Editors: 
-ChatGPT                  8 hrs 23 mins       ██████████░░░░░░░░░░░░░░░   38.18 % 
-Codex Vscode             5 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   23.65 % 
-Zed                      4 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-Claude Code              2 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
-Obsidian                 44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+ChatGPT                  7 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   29.19 % 
+Zed                      7 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   26.64 % 
+Claude Code              5 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
+Codex Vscode             4 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
+iTerm2                   34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 24 mins (70.11%)
+⏱ AI Coding Time: 18 hrs 58 mins (69.63%)
 
-✍️ 4,117 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 13,493 lines written by AI, 1 lines written by hand (99.99% AI-written)
 
-🔤 5,299,978 Input Tokens, 717,718 Output Tokens
+🔤 8,194,902 Input Tokens, 1,362,652 Output Tokens
 
-💵 $178.13 Estimated AI Cost This Week
+💵 $199.53 Estimated AI Cost This Week
 
-🧠 76 AI Sessions, 234 AI Prompts
+🧠 98 AI Sessions, 388 AI Prompts
 
-GPT                      3,125 lines         ███████████████████░░░░░░   74.37 % 
-Opus                     469 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-Codex-Vscode             408 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
-Sonnet                   200 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Opus                     8,324 lines         ███████████████░░░░░░░░░░   60.11 % 
+GPT                      3,385 lines         ██████░░░░░░░░░░░░░░░░░░░   24.45 % 
+Sonnet                   1,647 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+Codex-Vscode             491 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 266 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.02% of changed lines were hand-edited
+🤖 AI-Driven — 99.99% of written lines came from AI
+📝 Concise Prompter — average 294 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.01% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   26 repos            █████████████░░░░░░░░░░░░   53.06 % 
-TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+Python                   26 repos            █████████████░░░░░░░░░░░░   52.00 % 
+TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 ```
 
 

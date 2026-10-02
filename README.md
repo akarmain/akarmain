@@ -107,50 +107,7 @@
   <br>
 <div align="center">
   <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-395%20hrs%2027%20mins-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Other                    7 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   25.76 % 
-Markdown                 5 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
-TypeScript               4 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
-CSS                      2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
-Python                   1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
-
-🔥 Editors: 
-ChatGPT                  7 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   29.19 % 
-Zed                      7 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   26.64 % 
-Claude Code              5 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
-Codex Vscode             4 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
-iTerm2                   34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 18 hrs 58 mins (69.63%)
-
-✍️ 13,493 lines written by AI, 1 lines written by hand (99.99% AI-written)
-
-🔤 8,194,902 Input Tokens, 1,362,652 Output Tokens
-
-💵 $199.53 Estimated AI Cost This Week
-
-🧠 98 AI Sessions, 388 AI Prompts
-
-Opus                     8,324 lines         ███████████████░░░░░░░░░░   60.11 % 
-GPT                      3,385 lines         ██████░░░░░░░░░░░░░░░░░░░   24.45 % 
-Sonnet                   1,647 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-Codex-Vscode             491 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.99% of written lines came from AI
-📝 Concise Prompter — average 294 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.01% of changed lines were hand-edited
-```
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-403%20hrs%205%20mins-blue?style=flat)
 
 **I Mostly Code in Python** 
 

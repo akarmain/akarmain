@@ -107,50 +107,7 @@
   <br>
 <div align="center">
   <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-415%20hrs%2057%20mins-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Other                    5 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   39.92 % 
-Python                   3 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   29.45 % 
-Swift                    1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
-TeX                      44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-Markdown                 33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
-
-🔥 Editors: 
-Codex Vscode             5 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   41.55 % 
-ChatGPT                  5 hrs 14 mins       ██████████░░░░░░░░░░░░░░░   41.32 % 
-Obsidian                 48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-Zed                      40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
-Claude Code              31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 10 hrs 30 mins (83.09%)
-
-✍️ 5,860 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 3,598,321 Input Tokens, 599,237 Output Tokens
-
-💵 $140.10 Estimated AI Cost This Week
-
-🧠 34 AI Sessions, 94 AI Prompts
-
-GPT                      5,476 lines         ██████████████░░░░░░░░░░░   56.10 % 
-Opus                     4,102 lines         ███████████░░░░░░░░░░░░░░   42.02 % 
-Sonnet                   184 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 406 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-417%20hrs%2039%20mins-blue?style=flat)
 
 **I Mostly Code in Python** 
 

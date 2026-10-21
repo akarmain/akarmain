@@ -107,57 +107,57 @@
   <br>
 <div align="center">
   <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-423%20hrs%2030%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-424%20hrs%2036%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    5 hrs 32 mins       █████████████░░░░░░░░░░░░   52.05 % 
-Markdown                 2 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
-Java                     1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
-JavaScript               46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
-Python                   34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+Other                    5 hrs 45 mins       ███████████████░░░░░░░░░░   58.22 % 
+Markdown                 1 hr 57 mins        █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
+JavaScript               1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+Python                   25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+C++                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
 
 🔥 Editors: 
-ChatGPT                  5 hrs 25 mins       █████████████░░░░░░░░░░░░   50.95 % 
-Codex Vscode             2 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   27.73 % 
-Zed                      1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
-Obsidian                 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
-Claude Code              20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+ChatGPT                  5 hrs 16 mins       █████████████░░░░░░░░░░░░   53.32 % 
+Codex Vscode             3 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   33.56 % 
+Obsidian                 43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
+Claude Code              20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+Zed                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 51 mins (54.95%)
+⏱ AI Coding Time: 5 hrs 52 mins (59.34%)
 
-✍️ 2,562 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 4,267 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,794,673 Input Tokens, 224,258 Output Tokens
+🔤 2,156,090 Input Tokens, 312,271 Output Tokens
 
-💵 $25.17 Estimated AI Cost This Week
+💵 $38.49 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 98 AI Prompts
+🧠 18 AI Sessions, 70 AI Prompts
 
-GPT                      2,497 lines         ████████████████████████░   97.31 % 
-Codex-Vscode             69 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+GPT                      4,202 lines         █████████████████████████   98.38 % 
+Codex-Vscode             69 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 449 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📄 Detailed Prompter — average 593 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   26 repos            █████████████░░░░░░░░░░░░   52.00 % 
-TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Python                   27 repos            █████████████░░░░░░░░░░░░   52.94 % 
+TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
 ```
 
 
